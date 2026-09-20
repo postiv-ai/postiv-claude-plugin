@@ -1,5 +1,7 @@
 # Postiv for Claude
 
+[GitHub repository](https://github.com/postiv-ai/postiv-claude-plugin)
+
 A Claude plugin combining the Postiv MCP connector with a content skill and five guided playbooks.
 
 Create posts, carousels, infographics, and images. Schedule content, reply to comments, and track what works across LinkedIn personal profiles and company pages in your connected workspace.
