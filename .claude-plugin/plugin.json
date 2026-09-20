@@ -1,0 +1,18 @@
+{
+  "name": "postiv",
+  "version": "1.0.0",
+  "description": "Create and schedule content, manage comments, and learn from performance with Postiv. Includes guided content workflows.",
+  "author": {
+    "name": "Postiv",
+    "url": "https://postiv.ai"
+  },
+  "homepage": "https://postiv.ai",
+  "repository": "https://github.com/janvm18/postiv-claude-plugin",
+  "keywords": [
+    "postiv",
+    "linkedin",
+    "content",
+    "analytics",
+    "marketing"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "postiv": {
+      "type": "http",
+      "url": "https://postiv.ai/mcp"
+    }
+  }
+}
