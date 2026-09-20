@@ -1,6 +1,6 @@
 # Postiv for Claude
 
-[GitHub repository](https://github.com/postiv-ai/postiv-claude-plugin)
+[GitHub repository](https://github.com/postiv-ai/postiv-mcp-plugin)
 
 A Claude plugin combining the Postiv MCP connector with a content skill and five guided playbooks.
 
